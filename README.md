@@ -3,7 +3,8 @@
 # DeepFeaturesTracker
 End to end cell tracking code from Berkay.
 
-Collective cell analysis from microscopy image series is important for wound healing research. Computer-based automation of such analyses may help in rapid acquisition of reliable and reproducible results. In this study phase-contrast optical microscopy image series of an in-vitro wound healing essay is manually delineated by two experts and its analysis is realized, traditional image processing and deep learning based approaches for automated segmentation of wound area are developed and their performance comparisons are carried out.
+* Collective cell analysis from microscopy image series is important for wound healing research. Computer-based automation of such analyses may help in rapid acquisition of reliable and reproducible results. 
+* In this study phase-contrast optical microscopy image series of an in-vitro wound healing essay is manually delineated by two experts and its analysis is realized. Traditional image processing and deep learning based approaches for automated segmentation of wound area are developed and compared.
 
 If you find this work useful, please cite our paper at:
 
