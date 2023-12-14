@@ -10,7 +10,7 @@
 
 If you find this work useful, please cite:
 
-@INPROCEEDINGS{9299213, <br/>
+>@INPROCEEDINGS{9299213, <br/>
   author={Mayalıve, Berkay and Şaylığ, Orkun and Özuysal, Özden Y. and Okvur, Devrim P. and Töreyin, Behçet Ugur and Ünay, Devrim}, <br/>
   booktitle={2020 Medical Technologies Congress (TIPTEKNO)}, <br/>
   title={Automated Analysis of Wound Healing Microscopy Image Series - A Preliminary Study}, <br/>
